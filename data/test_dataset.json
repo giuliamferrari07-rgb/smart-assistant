@@ -1,0 +1,20 @@
+[
+    {
+        "texto": "Meu pedido chegou quebrado",
+        "tipo_esperado": "reclamacao",
+        "urgencia_esperada": "alta",
+        "keywords": ["pedido", "problema"]
+    },
+    {
+        "texto": "Como faço devolução?",
+        "tipo_esperado": "duvida",
+        "urgencia_esperada": "media",
+        "keywords": ["devolução"]
+    },
+    {
+        "texto": "Parabéns pelo atendimento",
+        "tipo_esperado": "elogio",
+        "urgencia_esperada": "baixa",
+        "keywords": ["obrigado"]
+    }
+]
