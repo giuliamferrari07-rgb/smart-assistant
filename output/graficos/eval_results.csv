@@ -1,0 +1,9 @@
+texto,esperado,previsto,correto
+Meu pedido chegou quebrado,reclamacao,reclamacao,True
+Como faço devolução?,duvida,duvida,True
+Parabéns pelo atendimento,elogio,elogio,True
+Quero cancelar minha compra,reclamacao,reclamacao,True
+Vocês possuem garantia?,duvida,duvida,True
+Minha entrega atrasou muito,reclamacao,reclamacao,True
+Gostei muito da loja,elogio,elogio,True
+Sugiro melhorar o aplicativo,sugestao,sugestao,True
